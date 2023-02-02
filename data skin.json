@@ -1,129 +1,155 @@
 { "ADS":
     {
   
-      "cpa_image":"yandex",
-      "cpa_title":"yandex",
-      "cpa_sous_title":"yandex",
-      "cpa_url":"yandex",
-      "show_cpa":true,
-
-      "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
-      "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
-      "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
-        
-        
-      "banner_type":"huawei",
-      "inter_type":"huawei",
-      "native_type":"huawei",
-      "reward_type":"huawei",
-      
-
-      "ironsource_id":"jhd78302",
-      "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-DEMO-300x50",
-      "native_yandex":"R-M-DEMO-interstitial",
-      "interstitial_yandex":"R-M-DEMO-native-i",
-      "rewarde_yandex":"R-M-DEMO-300x50",
-        
-        
-        "banner_huawei":"testw6vs28auh3",
-        "interstitial_huawei":"teste9ih9j0rc3",
- 	"reward_huawei":"testx9dtjwj8hp",
-        "native_huawei":"testy63txaom86",
+      "banner_type_1":"admob",
+      "inter_type_1":"admob",
+      "inter_or_reward_1":"inter",
+      "native_type_1":"admob",
+      "reward_type_1":"admob",
+      "native_or_mrec_1":"native",
 
-      
-       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
-      "native_admob":"ca-app-pub-3940256099942544/2247696110",
-      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
-      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
+      "banner_type_2":"admob",
+      "inter_type_2":"admob",
+      "inter_or_reward_2":"inter",
+      "native_type_2":"admob",
+      "reward_type_2":"admob",
+      "native_or_mrec_2":"native",
 
-      "applovin_banner":"R-M-DEMO-300x50",
-      "applovin_interstitial":"R-M-DEMO-interstitial",
-      "applovin_reward":"R-M-DEMO-native-i",
-      "applovin_native":"R-M-DEMO-300x50",
+     "banner_type_3":"admob",
+      "inter_type_3":"admob",
+      "inter_or_reward_3":"inter",
+      "native_type_3":"admob",
+      "reward_type_3":"admob",
+      "native_or_mrec_3":"native",
 
-      "facebook_banner":"R-M-DEMO-interstitial",
-      "facebook_interstitial":"R-M-DEMO-native-i",
-      "facebook_reward":"R-M-DEMO-300x50",
-      "facebook_native":"R-M-DEMO-interstitial"
+      "banner_type_4":"admob",
+      "inter_type_4":"admob",
+      "inter_or_reward_4":"inter",
+      "native_type_4":"admob",
+      "reward_type_4":"admob",
+      "native_or_mrec_4":"native",
 
+       "banner_type_5":"admob",
+      "inter_type_5":"admob",
+      "inter_or_reward_5":"inter",
+      "native_type_5":"admob",
+      "reward_type_5":"admob",
+      "native_or_mrec_5":"native",
+
+     
+
+      "ironsource_id":"ca-app-pub56099942",
+      "unity_id":"ca-app-pub56099942",
+
+
+     
+
+      "banner_id_1":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_1":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_1":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_1":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_1":"ca-app-pub-3940256099942544/2247696110",
+    
+
+      "banner_id_2":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_2":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_2":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_2":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_2":"ca-app-pub-3940256099942544/2247696110",
+    
+      "banner_id_3":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_3":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_3":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_3":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_3":"ca-app-pub-3940256099942544/2247696110",
+    
+      "banner_id_4":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_4":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_4":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_4":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_4":"ca-app-pub-3940256099942544/2247696110",
+    
+
+     "banner_id_5":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_5":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_5":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_5":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_5":"ca-app-pub-3940256099942544/2247696110"
+    
   
     },
-    "skins": [
+    "guideData": [
     {
-      "imageUrl": "https://iili.io/Hcgir11.jpg",
-      "title": "Mod Pack 1",
-      "likeNumbers": "2722 LIKES",
-      "commentNumbers": " 1333 COMMENTS",
-      "downloadNumbers": "4454 DOWNLOADS",
-      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
-       
+      "image_link": "https://iili.io/H0LjqSn.jpg",
+      "title": "black russia download 1",
+        "text_Content": "The Black Russian is a cocktail made with vodka and coffee liqueur. It is said to have been created by a Belgian bartender in the late 1940s or early 1950s, and was popularized during the Cold War era.",
+        "text_Content_1": ""
+
 
 
       
     },
     {
-      "imageUrl": "https://iili.io/HcgiSLB.jpg",
-      "title": "Mod Pack 2",
-      "likeNumbers": "2022 LIKES",
-      "commentNumbers": " 3323 COMMENTS",
-      "downloadNumbers": "4744 DOWNLOADS",
-      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
-       
+      "image_link": "https://iili.io/H0LjKFt.jpg",
+      "title": "black russia download 2",
+        "text_Content": "The exact origin of the Black Russian cocktail is not entirely clear, but it is believed to have been created by a Belgian bartender named Gustave Tops, who was working at the Hotel Metropole in Brussels. According to legend, Tops created the drink in honor of Perle Mesta, the U.S. Ambassador to Luxembourg, who was known for throwing lavish parties. The drink was first served in 1949.",
+        "text_Content_1": ""
+
+
 
       
     },
     {
-      "imageUrl": "https://iili.io/HcgigqP.jpg",
-      "title": "Mod Pack 3",
-      "likeNumbers": "2022 LIKES",
-      "commentNumbers": " 37733 COMMENTS",
-      "downloadNumbers": "4244 DOWNLOADS",
-      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
-       
+      "image_link": "https://iili.io/H0Lj3PI.jpg",
+      "title": "black russia download 3",
+        "text_Content": "The basic recipe for a Black Russian consists of vodka and coffee liqueur, typically in a 5:2 ratio. Some recipes call for the ingredients to be shaken or stirred with ice, while others call for them to be poured over ice in a rocks glass. The drink is typically garnished with a twist of orange peel or a cherry..",
+        "text_Content_1": ""
+
+
 
       
     }
     ,{
-      "imageUrl": "https://iili.io/Hcgi8XV.jpg",
-      "title": "Mod Pack 4",
-      "likeNumbers": "8222 LIKES",
-      "commentNumbers": " 3533 COMMENTS",
-      "downloadNumbers": "4144 DOWNLOADS",
-      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
-       
+      "image_link": "https://iili.io/H0LjfcX.jpg",
+      "title": "black russia download 4",
+        "text_Content": "Over the years, the Black Russian has become a popular cocktail around the world. It is a simple and easy-to-make drink that can be enjoyed in any occasion. It is also a great drink for those who are looking for a quick pick-me-up after a long day.",
+        "text_Content_1": ""
+
 
 
       
     },
     {
-      "imageUrl": "https://iili.io/Hcgi4rF.jpg",
-      "title": "Mod Pack 5",
-      "likeNumbers": "2022 LIKES",
-      "commentNumbers": " 3133 COMMENTS",
-      "downloadNumbers": "4944 DOWNLOADS",
-      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
-       
+      "image_link": "https://iili.io/H0LjnAG.jpg",
+      "title": "black russia download 5",
+        "text_Content": "The Black Russian is a classic example of the Cold War era cocktail. In the years following World War II, the United States and the Soviet Union were locked in a tense political and military standoff that became known as the Cold War. During this time, many Americans viewed the Soviet Union with suspicion and fear, and the Black Russian, with its Russian vodka and Belgian origins, became a symbol of this tension.",
+        "text_Content_1": ""
+
+
+
+      
     },
     {
-      "imageUrl": "https://iili.io/HcgiPdg.jpg",
-      "title": "Mod Pack 6",
-      "likeNumbers": "2282 LIKES",
-      "commentNumbers": " 3533 COMMENTS",
-      "downloadNumbers": "4414 DOWNLOADS",
-      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
-     
+      "image_link": "https://iili.io/H0LjoNf.jpg",
+      "title": "black russia download 6",
+        "text_Content": "The drink's popularity reached new heights in the 1950s and 1960s, as the Cold War continued to simmer. The Black Russian was often featured in popular culture, appearing in movies and television shows of the era. It was also a popular drink among celebrities and politicians.",
+        "text_Content_1": ""
+
+
+
+      
     },
     {
-      "imageUrl": "https://iili.io/Hcg8PEb.jpg",
-      "title": "Mod Pack 7",
-      "likeNumbers": "2722 LIKES",
-      "commentNumbers": " 3133 COMMENTS",
-      "downloadNumbers": "4344 DOWNLOADS",
-      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
-       
+      "image_link": "https://iili.io/H0Ljxt4.jpg",
+      "title": "black russia download 7",
+        "text_Content": "Despite its Cold War-era origins, the Black Russian remains a popular cocktail to this day. It is a simple, classic drink that is easy to make and can be enjoyed by anyone. Whether you're looking for a quick pick-me-up or a classic cocktail to enjoy with friends, the Black Russian is a great choice.",
+        "text_Content_1": ""
+
+
+
+      
     }
   ], "Apps": [
     {
@@ -182,5 +208,4 @@
 
     }
   ]
- 
   }
